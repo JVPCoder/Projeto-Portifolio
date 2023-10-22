@@ -1,0 +1,72 @@
+@use './config';
+
+// Classes de Porcentagem
+
+.c-10{
+    width: 10%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+.c-20{
+    width: 20%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+.c-30{
+    width: 30%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+.c-40{
+    width: 40%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+.c-50{
+    width: 50%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+.c-60{
+    width: 60%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+.c-70{
+    width: 70%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+.c-80{
+    width: 80%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+.c-90{
+    width: 90%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+.c-100{
+    width: 100%;
+    border-radius: 6px;
+    background-color: config.$color-red;
+}
+
+//Classe Flex Center
+
+.m-auto{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
