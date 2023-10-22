@@ -476,7 +476,7 @@ html, body {
   color: #FFFFFF;
 }
 
-@media screen and (min-width: 425px) {
+@media only screen and (min-width: 768px) {
   .webview .intro .container h1 {
     font-size: 2.4rem;
   }
